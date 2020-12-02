@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mark</h1>
 <h3 align="center">A Middle+ backend developer from Russia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venvatemark" alt="venvatemark" /></a> </p>
-
 - 🔭 I’m currently working on **my portfolio projects**
 
 - 🌱 I’m currently learning **NestJS, Telegraf, VK-IO, GatsbyJS**
